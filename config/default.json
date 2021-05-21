@@ -1,0 +1,9 @@
+{
+    "server": {
+        "port": 8080
+    },
+    "logstash": {
+        "dns": "localhost",
+        "port": 5000
+    }
+}

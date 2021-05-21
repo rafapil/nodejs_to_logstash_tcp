@@ -1,0 +1,19 @@
+{
+  "name": "usando_http",
+  "version": "1.0.0",
+  "description": "iniciando com express",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafa_filgs",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "config": "^3.3.6",
+    "express": "^4.17.1",
+    "node-logstash-send": "^1.1.1",
+    "uuid": "^3.3.3"
+  }
+}
